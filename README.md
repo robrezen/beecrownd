@@ -1,2 +1,4 @@
 # beecrownd
-Exercise 
+
+Exercises done on the beecrownd website
+
